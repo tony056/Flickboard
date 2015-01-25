@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{TouchNType}
+Fallot-Burghardt, W., Fjeld, M., Speirs, C., Ziegenspeck, S., Krueger, H., and
+  Läubli, T.
+\newblock Touch\&type: a novel pointing device for notebook computers.
+\newblock In {\em NordiCHI'06} (2006), 465--468.
+
+\bibitem{DTGS}
+Habib, I., Berggren, N., Rehn, E., Josefsson, G., Kunz, A., and Fjeld, M.
+\newblock Dgts: Integrated typing and pointing.
+\newblock INTERACT '09, Springer-Verlag (Berlin, Heidelberg, 2009), 232--235.
+
+\bibitem{smartskin}
+Rekimoto, J.
+\newblock Smartskin: An infrastructure for freehand manipulation on interactive
+  surfaces.
+\newblock CHI '02, ACM (New York, NY, USA, 2002), 113--120.
+
+\bibitem{ThumbSense}
+Rekimoto, J.
+\newblock Thumbsense: Automatic input mode sensing for touchpad-based
+  interactions.
+\newblock CHI EA '03, ACM (New York, NY, USA, 2003), 852--853.
+
+\bibitem{96bytes}
+Taylor, S., Keskin, C., Hilliges, O., Izadi, S., and Helmes, J.
+\newblock Type-hover-swipe in 96 bytes: A motion sensing mechanical keyboard.
+\newblock CHI '14, ACM (New York, NY, USA, 2014), 1695--1704.
+
+\end{thebibliography}

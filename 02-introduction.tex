@@ -1,0 +1,11 @@
+% ############################################################
+% INTRODUCTION
+% ############################################################
+\section{Introduction}
+Operating a computer requires both pointing devices and text input devices.
+However, most of the commercially available computers present these as two separate devices, which require hand repositioning while switching between mouse and typing actions.
+Therefore, previous studies had explored how to co-locate touch sensing and regular typing. 
+There are two main issues of the dual functional keyboard: 1) How to enable touch sensing capability on the keyboard?  \cite{TouchNType,DTGS,96bytes} provided different sensing approaches to combine gesture interaction and typing on the same area. 2) How to automatically switch between trackpad mode and typing mode? To our knowledge, this issue has not been resolved yet. We present \papertitle, a keyboard cover with a smart capacitive touch sensing film with an automatic mode switching algorithm that recognises the user's intention based on the recorded usage data of 30 participants.
+%reviewer 2nd request
+In this work, we focus on automatic mode switching between typing and pointing, and the design of our sensing cover is based on the work, SmartSkin \cite{smartskin}, which recognizes multiple hand positions and shapes by using capacitive sensing grids. Furthermore, we modified the software implementation provided by Type-hover-swipe in 96 bytes \cite{96bytes}, which uses Motion Signature approach \cite{96bytes} to do gesture recognitions. We conducted experimental studies that show automatic mode switching classification accuracies of 98\% are achievable with small amounts of training data per user.
+%(about 6 minutes). --> Mention this in the Training data section

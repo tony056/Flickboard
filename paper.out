@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section*.4}{Introduction}{}% 1
+\BOOKMARK [1][-]{section*.5}{Related Work}{}% 2
+\BOOKMARK [1][-]{section*.6}{System Overview}{}% 3
+\BOOKMARK [2][-]{section*.7}{Sensing Cover}{section*.6}% 4
+\BOOKMARK [2][-]{section*.8}{Capacitance To Digital Converters\(CDC\)}{section*.6}% 5
+\BOOKMARK [2][-]{section*.9}{Signal Processing}{section*.6}% 6
+\BOOKMARK [1][-]{section*.10}{Automatic Mode Switching Prediction}{}% 7
+\BOOKMARK [2][-]{section*.11}{Task Design for collecting training data}{section*.10}% 8
+\BOOKMARK [2][-]{section*.12}{Procedure}{section*.10}% 9
+\BOOKMARK [2][-]{section*.13}{Labeling}{section*.10}% 10
+\BOOKMARK [2][-]{section*.14}{Classification Method}{section*.10}% 11
+\BOOKMARK [1][-]{section*.15}{System Evaluation}{}% 12
+\BOOKMARK [2][-]{section*.16}{Preprocessing Raw Data}{section*.15}% 13
+\BOOKMARK [2][-]{section*.17}{Testing Parameters}{section*.15}% 14
+\BOOKMARK [2][-]{section*.18}{Performance}{section*.15}% 15
+\BOOKMARK [1][-]{section*.19}{Discussion}{}% 16
+\BOOKMARK [2][-]{section*.20}{Observation of User Behavior}{section*.19}% 17
+\BOOKMARK [2][-]{section*.21}{Uneven Touch Surface}{section*.19}% 18
+\BOOKMARK [2][-]{section*.22}{Higher Frame Rate and Resolution}{section*.19}% 19
+\BOOKMARK [1][-]{section*.23}{Conclusion}{}% 20
+\BOOKMARK [1][-]{section*.24}{ACKNOWLEDGEMENTS}{}% 21
+\BOOKMARK [1][-]{section*.25}{REFERENCES }{}% 22
